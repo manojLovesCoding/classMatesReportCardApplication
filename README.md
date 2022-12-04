@@ -610,7 +610,7 @@ void cal(float num1,float num2,float num3,float num4,float num5,float num6,float
 {
 	cout<<"------------------------------------------------------------------------------------------------------------------------------";
 	cout<<"|\t\t\t\t\t\t\t RESULT SUMMARY 							     |" ;
-	float gpCp=num1*num2+num3*num4+num5*num6+num7*num8+num9*num10+num11*num12+num13*num14+num15*num16;
+	float gpCp=(num1*num2)+(num3*num4)+(num5*num6)+(num7*num8)+(num9*num10)+(num11*num12)+(num13*num14)+(num15*num16);
 	float cp=(num2+num4+num6+num8+num10+num12+num14+num16);
 	float sgpa=gpCp/cp;
 	cout<<"|\t\t\t\t\t\t S.G.P.A        :     "<<sgpa<<"						     |";			//7.38

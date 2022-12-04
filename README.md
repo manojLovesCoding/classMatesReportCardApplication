@@ -10,7 +10,7 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
-void cal(float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,int,int,int,int,int,int,int,int);
+void cal(float,float,float,hfloat,float,float,float,float,float,float,float,float,float,float,float,float,int,int,int,int,int,int,int,int);
 		
 int function()
 {

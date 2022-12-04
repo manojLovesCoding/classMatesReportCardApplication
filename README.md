@@ -1,4 +1,4 @@
- /*Author  : Manoj Kumar
+  /*Author  : Manoj Kumar
   Project : Classmates Report-card Generator Application
   
   This project include : 1)Class and Objects
@@ -6,11 +6,26 @@
   						 3)Inheritance
   						 4)Functions
 						 5)Loops
+
+
+
+
+
+
+
+
+
+
 						 6)Control statement*/  						 
+
+
+
+
+
 #include<iostream>
 #include<string.h>
 using namespace std;
-void cal(float,float,float,hfloat,float,float,float,float,float,float,float,float,float,float,float,float,int,int,int,int,int,int,int,int);
+void cal(float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,int,int,int,int,int,int,int,int);
 		
 int function()
 {
